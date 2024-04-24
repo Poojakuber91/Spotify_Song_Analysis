@@ -1,6 +1,6 @@
 # Spotify_Song_Analysis
 
-This project by Harmony Insights delves into a dataset of Spotify songs to explore and predict factors influencing streaming success. It encapsulates data preprocessing, exploratory analysis, feature engineering, and machine learning model development.
+This project delves into a dataset of Spotify songs to explore and predict factors influencing streaming success. It encapsulates data preprocessing, exploratory analysis, feature engineering, and machine learning model development.
 # Installation
 1. Clone the repository to your local machine.
 2. Ensure you have Python 3.x installed.
